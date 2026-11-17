@@ -8,7 +8,7 @@ Corpus: Python docs HTML archive (https://docs.python.org/3/download.html).
 FastAPI and pandas docs may be added later.
 
 ## Stage 0 — Corpus
-- [ ] Parse each HTML page into title, URL and main text (BeautifulSoup)
+- [x] Parse each HTML page into title, URL and main text (BeautifulSoup)
 - [ ] Store documents in SQLite
 - [ ] Inspect output for empty pages, duplicates, odd characters
 
