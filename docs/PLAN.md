@@ -9,7 +9,7 @@ FastAPI and pandas docs may be added later.
 
 ## Stage 0 — Corpus
 - [x] Parse each HTML page into title, URL and main text (BeautifulSoup)
-- [ ] Store documents in SQLite
+- [x] Store documents in SQLite
 - [ ] Inspect output for empty pages, duplicates, odd characters
 
 ## Stage 1 — Index and boolean search
